@@ -1,0 +1,24 @@
+/* Provide sufficient contrast against white background */
+a {
+   color: white !important
+}
+a:visited{
+    color:white !important
+}
+code {
+  color: #E01A76;
+}
+
+.btn-primary {
+  color: white;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+body{
+    background-color:black;
+    color:white !important
+}
+*{
+    color:white !important
+}
